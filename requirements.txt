@@ -1,0 +1,6 @@
+numpy
+matplotlib
+xarray
+scipy
+quam-lib
+qualang-tools
