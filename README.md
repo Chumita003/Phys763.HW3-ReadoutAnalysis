@@ -1,6 +1,6 @@
 # Phys763.HW3 – Readout Analysis
 
-This repository contains a **coursework assignment** developed as part of **PHY 763 – Quantum Computing Laboratory** at the University of Wisconsin–Madison.
+This repository contains a **coursework assignment** developed as part of **PHY 763** at the University of Wisconsin–Madison.
 
 The work focuses on the **analysis and physical interpretation of experimental qubit readout data** obtained from a superconducting qubit platform.  
 All datasets used in this repository were **provided by the course instructors** for educational purposes.
