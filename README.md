@@ -67,5 +67,5 @@ To run the notebook locally:
    ```bash
     jupyter notebook Phys763_HW3b.ipynb
 
-5. Run all cells to reproduce the analysis:
+5. Run all cells to reproduce the analysis:/n
    The notebook will generate plots of IQ blobs, confusion matrices, and T1 decay fits using the provided datasets.
