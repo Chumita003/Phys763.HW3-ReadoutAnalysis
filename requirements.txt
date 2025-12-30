@@ -2,5 +2,6 @@ numpy
 matplotlib
 xarray
 scipy
+qm-qua
 quam-lib
 qualang-tools
