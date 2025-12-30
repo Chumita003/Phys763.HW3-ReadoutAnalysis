@@ -50,22 +50,10 @@ Through this assignment, I developed experience in:
 
 ## Usage
 
-To run the notebook locally:
+This notebook is intended to be **read and reviewed**, rather than executed independently.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Chumita003/Phys763.HW3-ReadoutAnalysis.git
-   cd Phys763.HW3-ReadoutAnalysis
-   
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+It depends on experimental datasets and calibration infrastructure available through the **QOLab / Qualibrate environment used in PHY 763**, which are not publicly accessible.
 
-3. Make sure the data folder is located in the same directory as the notebook (Phys763_HW3b.ipynb), since the analysis scripts load datasets directly from data.
+For this reason, the `data/` directory is intentionally excluded from this repository.
 
-4. Launch Jupyter Notebook:
-   ```bash
-    jupyter notebook Phys763_HW3b.ipynb
-
-5. Run all cells to reproduce the analysis:
-   The notebook will generate plots of IQ blobs, confusion matrices, and T1 decay fits using the provided datasets.
+The notebook and accompanying PDF are provided to illustrate the **full analysis workflow, methodology, and physical interpretation** of the experiments.
