@@ -1,5 +1,5 @@
 # Data and experimental outputs
-data/
+data
 
 # Jupyter
 .ipynb_checkpoints/
