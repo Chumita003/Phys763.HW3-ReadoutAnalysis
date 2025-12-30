@@ -54,6 +54,6 @@ This notebook is intended to be **read and reviewed**, rather than executed inde
 
 It depends on experimental datasets and calibration infrastructure available through the **QOLab / Qualibrate environment used in PHY 763**, which are not publicly accessible.
 
-For this reason, the `data/` directory is intentionally excluded from this repository.
+For this reason, the `data` directory is intentionally excluded from this repository.
 
 The notebook and accompanying PDF are provided to illustrate the **full analysis workflow, methodology, and physical interpretation** of the experiments.
