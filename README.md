@@ -61,7 +61,7 @@ To run the notebook locally:
    ```bash
    pip install -r requirements.txt
 
-3. Make sure the data/ folder is located in the same directory as the notebook (Phys763_HW3b.ipynb), since the analysis scripts load datasets directly from data/.
+3. Make sure the data folder is located in the same directory as the notebook (Phys763_HW3b.ipynb), since the analysis scripts load datasets directly from data.
 
 4. Launch Jupyter Notebook:
    ```bash
