@@ -55,15 +55,17 @@ To run the notebook locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Chumita003/Phys763.HW3-ReadoutAnalysis.git
-   
-2. Navigate to the directory:
-   ```bash
    cd Phys763.HW3-ReadoutAnalysis
-
-3. Launch Jupyter:
+   
+2. Install dependencies:
    ```bash
-   jupyter notebook
+   pip install -r requirements.txt
 
-4. Open
+3. Make sure the data/ folder is located in the same directory as the notebook (Phys763_HW3b.ipynb), since the analysis scripts load datasets directly from data/.
+
+4. Launch Jupyter Notebook:
    ```bash
-    Phys763_HW3b.ipynb
+    jupyter notebook Phys763_HW3b.ipynb
+
+5. Run all cells to reproduce the analysis:
+   The notebook will generate plots of IQ blobs, confusion matrices, and T1 decay fits using the provided datasets.
