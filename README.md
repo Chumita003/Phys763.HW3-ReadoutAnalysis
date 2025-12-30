@@ -7,3 +7,7 @@ quantities such as signal-to-noise behavior and measurement fidelity.
 
 The focus is on understanding experimental limitations rather than software
 optimization.
+
+## Files
+- Phys763_HW3b.ipynb: main analysis notebook
+- data/: experimental datasets provided for the assignment
