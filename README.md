@@ -48,6 +48,15 @@ Through this assignment, I developed experience in:
 
 ---
 
+## Skills Demonstrated 
+- Quantum readout analysis using Python and xarray
+- Signal discrimination and fidelity benchmarking
+- Curve fitting with scipy and interpretation of T₁ decay
+- Calibration comparison using JSON machine states
+- Data visualization with matplotlib
+
+---
+
 ## Usage
 
 This notebook is intended to be **read and reviewed**, rather than executed independently.
