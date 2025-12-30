@@ -10,4 +10,4 @@ optimization.
 
 ## Files
 - Phys763_HW3b.ipynb: main analysis notebook
-- data/: experimental datasets provided for the assignment
+- data: experimental datasets provided for the assignment
