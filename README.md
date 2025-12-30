@@ -22,3 +22,36 @@ The analysis aims to:
 - Study signal-to-noise ratio (SNR) behavior
 - Evaluate readout fidelity and its dependence on experimental parameters
 - Identify physical limitations arising from relaxation processes (e.g., T1 decay)
+  
+---
+
+## Data Disclaimer
+
+All experimental datasets included in this repository:
+
+- Were **provided by the PHY 763 instructional staff**
+- Are used **strictly for educational analysis**
+- Do **not** represent original data collected by the author
+
+The analysis and interpretation of the data were performed independently by the author as part of the coursework.
+
+---
+
+## Learning Outcomes
+
+Through this assignment, I developed experience in:
+
+- Analyzing experimental readout data from superconducting qubits
+- Interpreting signal-to-noise scaling and its impact on readout fidelity
+- Connecting experimental observations to physical processes such as relaxation (T1)
+- Working with real hardware datasets using Python and Jupyter notebooks
+
+---
+
+## Usage
+
+To run the notebook locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Chumita003/Phys763.HW3-ReadoutAnalysis.git
