@@ -57,9 +57,13 @@ To run the notebook locally:
    git clone https://github.com/Chumita003/Phys763.HW3-ReadoutAnalysis.git
    
 2. Navigate to the directory:
+   ```bash
    cd Phys763.HW3-ReadoutAnalysis
 
 3. Launch Jupyter:
+   ```bash
    jupyter notebook
 
-4. Open Phys763_HW3b.ipynb
+4. Open
+   ```bash
+    Phys763_HW3b.ipynb
