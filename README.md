@@ -52,7 +52,7 @@ Through this assignment, I developed experience in:
 - Quantum readout analysis using Python and xarray
 - Signal discrimination and fidelity benchmarking
 - Curve fitting with scipy and interpretation of T₁ decay
-- Calibration comparison using JSON machine states
+- Calibration comparison using machine state JSON files
 - Data visualization with matplotlib
 
 ---
